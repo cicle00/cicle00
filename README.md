@@ -1,13 +1,14 @@
 <!-- Header -->
 
-![Rounded](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=Good%20day%20to%20Code&textBg=false)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=360&text=Hello+World%21&fontSize=70&fontAlign=50&fontAlignY=50&desc=Happy+Coding+Day&descSize=20&descAlign=50&descAlignY=60)
 
 ## 🙇 안녕하세요, Full-Stack Programmer로 성장해나가고 있는 한성연입니다!
 
 ### 방문자수😍
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcicle00%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-
+### 🚌 Top Langs
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cicle00&layout=compact)
 
 
 
