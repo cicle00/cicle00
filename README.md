@@ -4,9 +4,6 @@
 
 ## 🙇 안녕하세요, Full-Stack Programmer로 성장해나가고 있는 한성연입니다!
 
-### 😍방문자수
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcicle00%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ### 🚌 Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cicle00&layout=compact)
 
@@ -40,6 +37,8 @@
 ![pycharm](https://img.shields.io/badge/pycharm-000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white)
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cicle00)](https://solved.ac/cicle00/)
 
 ## 📞Connect with Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[cicle1999@gmail.com])
